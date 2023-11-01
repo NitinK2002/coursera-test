@@ -1,3 +1,3 @@
 # coursera-test
 coursera test repository
-theme: Minima
+Run actions/jekyll-build-pages@v1
